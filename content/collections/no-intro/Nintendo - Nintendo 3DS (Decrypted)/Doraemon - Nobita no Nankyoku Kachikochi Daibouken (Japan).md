@@ -1,0 +1,10 @@
+---
+title: Doraemon - Nobita no Nankyoku Kachikochi Daibouken (Japan)
+link: https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/Doraemon%20-%20Nobita%20no%20Nankyoku%20Kachikochi%20Daibouken%20(Japan).zip
+type: single1
+System: Nintendo - Nintendo 3DS (Decrypted)
+---
+<b>Game:</b> Doraemon - Nobita no Nankyoku Kachikochi Daibouken (Japan)<br>
+<b>System:</b> Nintendo - Nintendo 3DS (Decrypted)<br>
+<b>Collection:</b> No-Intro<br>
+<b>Download:</b> https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%203DS%20(Decrypted)/Doraemon%20-%20Nobita%20no%20Nankyoku%20Kachikochi%20Daibouken%20(Japan).zip

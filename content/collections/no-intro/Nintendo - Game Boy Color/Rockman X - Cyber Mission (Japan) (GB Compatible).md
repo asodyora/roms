@@ -1,0 +1,10 @@
+---
+title: Rockman X - Cyber Mission (Japan) (GB Compatible)
+link: https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/Rockman%20X%20-%20Cyber%20Mission%20(Japan)%20(GB%20Compatible).zip
+type: single1
+System: Nintendo - Game Boy Color
+---
+<b>Game:</b> Rockman X - Cyber Mission (Japan) (GB Compatible)<br>
+<b>System:</b> Nintendo - Game Boy Color<br>
+<b>Collection:</b> No-Intro<br>
+<b>Download:</b> https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Color/Rockman%20X%20-%20Cyber%20Mission%20(Japan)%20(GB%20Compatible).zip

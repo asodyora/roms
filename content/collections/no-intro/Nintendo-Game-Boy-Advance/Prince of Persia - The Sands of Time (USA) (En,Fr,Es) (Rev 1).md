@@ -1,0 +1,10 @@
+---
+title: Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)
+link: https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(USA)%20(En,Fr,Es)%20(Rev%201).zip
+type: single1
+System: Nintendo - Game Boy Advance
+---
+<b>Game:</b> Prince of Persia - The Sands of Time (USA) (En,Fr,Es) (Rev 1)<br>
+<b>System:</b> Nintendo - Game Boy Advance<br>
+<b>Collection:</b> No-Intro<br>
+<b>Download:</b> https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20(USA)%20(En,Fr,Es)%20(Rev%201).zip

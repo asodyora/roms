@@ -1,0 +1,10 @@
+---
+title: Mahou no Pumpkin - Ann to Greg no Daibouken (Japan)
+link: https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Mahou%20no%20Pumpkin%20-%20Ann%20to%20Greg%20no%20Daibouken%20(Japan).zip
+type: single1
+System: Nintendo - Game Boy Advance
+---
+<b>Game:</b> Mahou no Pumpkin - Ann to Greg no Daibouken (Japan)<br>
+<b>System:</b> Nintendo - Game Boy Advance<br>
+<b>Collection:</b> No-Intro<br>
+<b>Download:</b> https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Game%20Boy%20Advance/Mahou%20no%20Pumpkin%20-%20Ann%20to%20Greg%20no%20Daibouken%20(Japan).zip
